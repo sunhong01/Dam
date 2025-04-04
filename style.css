@@ -1,0 +1,31 @@
+.nav {
+  width: 500px;
+  height: ;
+  border: ;
+}
+
+.logo,
+nav {
+  background-color: black;
+  color: white;
+}
+
+ul li {
+  display: inline-block;
+  float: center;
+  width: 105px;
+  color: white;
+}
+/* .nav {
+  background-color: aquamarine;
+  color: white;
+  text-align: left;
+  padding: 5px;
+} */
+
+/* nav {
+  background-image: url(image.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: center;
+} */
